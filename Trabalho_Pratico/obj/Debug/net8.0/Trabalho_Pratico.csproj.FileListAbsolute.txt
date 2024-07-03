@@ -1,0 +1,70 @@
+C:\Users\chris\OneDrive\Documentos\Trabalho_Pratico\Trabalho_Pratico\bin\Debug\net8.0\Trabalho_Pratico.exe
+C:\Users\chris\OneDrive\Documentos\Trabalho_Pratico\Trabalho_Pratico\bin\Debug\net8.0\Trabalho_Pratico.deps.json
+C:\Users\chris\OneDrive\Documentos\Trabalho_Pratico\Trabalho_Pratico\bin\Debug\net8.0\Trabalho_Pratico.runtimeconfig.json
+C:\Users\chris\OneDrive\Documentos\Trabalho_Pratico\Trabalho_Pratico\bin\Debug\net8.0\Trabalho_Pratico.dll
+C:\Users\chris\OneDrive\Documentos\Trabalho_Pratico\Trabalho_Pratico\bin\Debug\net8.0\Trabalho_Pratico.pdb
+C:\Users\chris\OneDrive\Documentos\Trabalho_Pratico\Trabalho_Pratico\obj\Debug\net8.0\Trabalho_Pratico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Documentos\Trabalho_Pratico\Trabalho_Pratico\obj\Debug\net8.0\Trabalho_Pratico.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documentos\Trabalho_Pratico\Trabalho_Pratico\obj\Debug\net8.0\Trabalho_Pratico.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documentos\Trabalho_Pratico\Trabalho_Pratico\obj\Debug\net8.0\Trabalho_Pratico.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documentos\Trabalho_Pratico\Trabalho_Pratico\obj\Debug\net8.0\Trabalho_Pratico.dll
+C:\Users\chris\OneDrive\Documentos\Trabalho_Pratico\Trabalho_Pratico\obj\Debug\net8.0\refint\Trabalho_Pratico.dll
+C:\Users\chris\OneDrive\Documentos\Trabalho_Pratico\Trabalho_Pratico\obj\Debug\net8.0\Trabalho_Pratico.pdb
+C:\Users\chris\OneDrive\Documentos\Trabalho_Pratico\Trabalho_Pratico\obj\Debug\net8.0\Trabalho_Pratico.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Documentos\Trabalho_Pratico\Trabalho_Pratico\obj\Debug\net8.0\ref\Trabalho_Pratico.dll
+C:\Users\chris\OneDrive\Documentos\Trabalho_Pratico\Trabalho_Pratico\Trabalho_Pratico\bin\Debug\net8.0\Trabalho_Pratico.exe
+C:\Users\chris\OneDrive\Documentos\Trabalho_Pratico\Trabalho_Pratico\Trabalho_Pratico\bin\Debug\net8.0\Trabalho_Pratico.deps.json
+C:\Users\chris\OneDrive\Documentos\Trabalho_Pratico\Trabalho_Pratico\Trabalho_Pratico\bin\Debug\net8.0\Trabalho_Pratico.runtimeconfig.json
+C:\Users\chris\OneDrive\Documentos\Trabalho_Pratico\Trabalho_Pratico\Trabalho_Pratico\bin\Debug\net8.0\Trabalho_Pratico.dll
+C:\Users\chris\OneDrive\Documentos\Trabalho_Pratico\Trabalho_Pratico\Trabalho_Pratico\bin\Debug\net8.0\Trabalho_Pratico.pdb
+C:\Users\chris\OneDrive\Documentos\Trabalho_Pratico\Trabalho_Pratico\Trabalho_Pratico\obj\Debug\net8.0\Trabalho_Pratico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Documentos\Trabalho_Pratico\Trabalho_Pratico\Trabalho_Pratico\obj\Debug\net8.0\Trabalho_Pratico.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documentos\Trabalho_Pratico\Trabalho_Pratico\Trabalho_Pratico\obj\Debug\net8.0\Trabalho_Pratico.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documentos\Trabalho_Pratico\Trabalho_Pratico\Trabalho_Pratico\obj\Debug\net8.0\Trabalho_Pratico.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documentos\Trabalho_Pratico\Trabalho_Pratico\Trabalho_Pratico\obj\Debug\net8.0\Trabalho_Pratico.dll
+C:\Users\chris\OneDrive\Documentos\Trabalho_Pratico\Trabalho_Pratico\Trabalho_Pratico\obj\Debug\net8.0\refint\Trabalho_Pratico.dll
+C:\Users\chris\OneDrive\Documentos\Trabalho_Pratico\Trabalho_Pratico\Trabalho_Pratico\obj\Debug\net8.0\Trabalho_Pratico.pdb
+C:\Users\chris\OneDrive\Documentos\Trabalho_Pratico\Trabalho_Pratico\Trabalho_Pratico\obj\Debug\net8.0\Trabalho_Pratico.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Documentos\Trabalho_Pratico\Trabalho_Pratico\Trabalho_Pratico\obj\Debug\net8.0\ref\Trabalho_Pratico.dll
+C:\Users\VX\Desktop\Trabalho_Pratico3\bin\Debug\net8.0\Trabalho_Pratico.exe
+C:\Users\VX\Desktop\Trabalho_Pratico3\bin\Debug\net8.0\Trabalho_Pratico.deps.json
+C:\Users\VX\Desktop\Trabalho_Pratico3\bin\Debug\net8.0\Trabalho_Pratico.runtimeconfig.json
+C:\Users\VX\Desktop\Trabalho_Pratico3\bin\Debug\net8.0\Trabalho_Pratico.dll
+C:\Users\VX\Desktop\Trabalho_Pratico3\bin\Debug\net8.0\Trabalho_Pratico.pdb
+C:\Users\VX\Desktop\Trabalho_Pratico3\obj\Debug\net8.0\Trabalho_Pratico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VX\Desktop\Trabalho_Pratico3\obj\Debug\net8.0\Trabalho_Pratico.AssemblyInfoInputs.cache
+C:\Users\VX\Desktop\Trabalho_Pratico3\obj\Debug\net8.0\Trabalho_Pratico.AssemblyInfo.cs
+C:\Users\VX\Desktop\Trabalho_Pratico3\obj\Debug\net8.0\Trabalho_Pratico.csproj.CoreCompileInputs.cache
+C:\Users\VX\Desktop\Trabalho_Pratico3\obj\Debug\net8.0\Trabalho_Pratico.dll
+C:\Users\VX\Desktop\Trabalho_Pratico3\obj\Debug\net8.0\refint\Trabalho_Pratico.dll
+C:\Users\VX\Desktop\Trabalho_Pratico3\obj\Debug\net8.0\Trabalho_Pratico.pdb
+C:\Users\VX\Desktop\Trabalho_Pratico3\obj\Debug\net8.0\Trabalho_Pratico.genruntimeconfig.cache
+C:\Users\VX\Desktop\Trabalho_Pratico3\obj\Debug\net8.0\ref\Trabalho_Pratico.dll
+C:\Users\VX\Desktop\Trabalho_Pratico\bin\Debug\net8.0\Trabalho_Pratico.exe
+C:\Users\VX\Desktop\Trabalho_Pratico\bin\Debug\net8.0\Trabalho_Pratico.deps.json
+C:\Users\VX\Desktop\Trabalho_Pratico\bin\Debug\net8.0\Trabalho_Pratico.runtimeconfig.json
+C:\Users\VX\Desktop\Trabalho_Pratico\bin\Debug\net8.0\Trabalho_Pratico.dll
+C:\Users\VX\Desktop\Trabalho_Pratico\bin\Debug\net8.0\Trabalho_Pratico.pdb
+C:\Users\VX\Desktop\Trabalho_Pratico\obj\Debug\net8.0\Trabalho_Pratico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VX\Desktop\Trabalho_Pratico\obj\Debug\net8.0\Trabalho_Pratico.AssemblyInfoInputs.cache
+C:\Users\VX\Desktop\Trabalho_Pratico\obj\Debug\net8.0\Trabalho_Pratico.AssemblyInfo.cs
+C:\Users\VX\Desktop\Trabalho_Pratico\obj\Debug\net8.0\Trabalho_Pratico.csproj.CoreCompileInputs.cache
+C:\Users\VX\Desktop\Trabalho_Pratico\obj\Debug\net8.0\Trabalho_Pratico.dll
+C:\Users\VX\Desktop\Trabalho_Pratico\obj\Debug\net8.0\refint\Trabalho_Pratico.dll
+C:\Users\VX\Desktop\Trabalho_Pratico\obj\Debug\net8.0\Trabalho_Pratico.pdb
+C:\Users\VX\Desktop\Trabalho_Pratico\obj\Debug\net8.0\Trabalho_Pratico.genruntimeconfig.cache
+C:\Users\VX\Desktop\Trabalho_Pratico\obj\Debug\net8.0\ref\Trabalho_Pratico.dll
+C:\Users\chris\OneDrive\Área de Trabalho\Trabalho_Pratico\Trabalho_Pratico\bin\Debug\net8.0\Trabalho_Pratico.exe
+C:\Users\chris\OneDrive\Área de Trabalho\Trabalho_Pratico\Trabalho_Pratico\bin\Debug\net8.0\Trabalho_Pratico.deps.json
+C:\Users\chris\OneDrive\Área de Trabalho\Trabalho_Pratico\Trabalho_Pratico\bin\Debug\net8.0\Trabalho_Pratico.runtimeconfig.json
+C:\Users\chris\OneDrive\Área de Trabalho\Trabalho_Pratico\Trabalho_Pratico\bin\Debug\net8.0\Trabalho_Pratico.dll
+C:\Users\chris\OneDrive\Área de Trabalho\Trabalho_Pratico\Trabalho_Pratico\bin\Debug\net8.0\Trabalho_Pratico.pdb
+C:\Users\chris\OneDrive\Área de Trabalho\Trabalho_Pratico\Trabalho_Pratico\obj\Debug\net8.0\Trabalho_Pratico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Área de Trabalho\Trabalho_Pratico\Trabalho_Pratico\obj\Debug\net8.0\Trabalho_Pratico.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Área de Trabalho\Trabalho_Pratico\Trabalho_Pratico\obj\Debug\net8.0\Trabalho_Pratico.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Área de Trabalho\Trabalho_Pratico\Trabalho_Pratico\obj\Debug\net8.0\Trabalho_Pratico.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Área de Trabalho\Trabalho_Pratico\Trabalho_Pratico\obj\Debug\net8.0\Trabalho_Pratico.dll
+C:\Users\chris\OneDrive\Área de Trabalho\Trabalho_Pratico\Trabalho_Pratico\obj\Debug\net8.0\refint\Trabalho_Pratico.dll
+C:\Users\chris\OneDrive\Área de Trabalho\Trabalho_Pratico\Trabalho_Pratico\obj\Debug\net8.0\Trabalho_Pratico.pdb
+C:\Users\chris\OneDrive\Área de Trabalho\Trabalho_Pratico\Trabalho_Pratico\obj\Debug\net8.0\Trabalho_Pratico.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Área de Trabalho\Trabalho_Pratico\Trabalho_Pratico\obj\Debug\net8.0\ref\Trabalho_Pratico.dll
